@@ -1,5 +1,7 @@
 # 🚀 Retail Sales Data Pipeline | Databricks + PySpark + Unity Catalog
 
+<img width="1536" height="1024" alt="Data Pipeline Architecture" src="https://github.com/user-attachments/assets/129b93dc-1874-46a8-989e-f3677330c096" />
+
 Enterprise-style **Retail Lakehouse Data Pipeline** built using **Databricks, PySpark, Unity Catalog, and Medallion Architecture (Bronze → Silver → Gold)**.
 
 This project simulates how consulting teams build scalable analytics datasets for **regional profitability reporting, KPI dashboards, and BI consumption**.
