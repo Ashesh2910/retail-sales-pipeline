@@ -1,0 +1,11 @@
+order_id,customer_id,product_id,region,order_date,quantity,sales,profit,category,sub_category,ingestion_ts,revenue,customer_segment
+1001,C002,P002,North,2026-01-02,2,1746,152.94,Office Supplies,Storage,2026-04-03T21:03:29.990Z,3492,High Value
+1002,C003,P003,East,2026-01-03,1,1209,222.9,Furniture,Sofa,2026-04-03T21:03:29.990Z,1209,High Value
+1003,C004,P004,West,2026-01-04,3,747,139.6,Technology,Laptop,2026-04-03T21:03:29.990Z,2241,Medium Value
+1004,C005,P005,South,2026-01-05,4,1747,317.75,Office Supplies,Paper,2026-04-03T21:03:29.990Z,6988,High Value
+1005,C006,P006,West,2026-01-06,5,658,139.63,Office Supplies,Paper,2026-04-03T21:03:29.990Z,3290,Medium Value
+1006,C007,P007,South,2026-01-07,2,435,93.25,Technology,Phone,2026-04-03T21:03:29.990Z,870,Low Value
+1007,C008,P008,North,2026-01-08,4,1769,338.56,Furniture,Sofa,2026-04-03T21:03:29.990Z,7076,High Value
+1008,C009,P009,North,2026-01-09,3,1228,238.2,Technology,Accessory,2026-04-03T21:03:29.990Z,3684,High Value
+1009,C010,P010,West,2026-01-10,4,279,60.36,Technology,Accessory,2026-04-03T21:03:29.990Z,1116,Low Value
+1010,C011,P011,North,2026-01-11,4,1311,244.86,Furniture,Table,2026-04-03T21:03:29.990Z,5244,High Value

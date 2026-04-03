@@ -1,0 +1,821 @@
+product_id,category,sub_category
+P002,Office Supplies,Storage
+P003,Furniture,Sofa
+P004,Technology,Laptop
+P005,Office Supplies,Paper
+P006,Office Supplies,Paper
+P007,Technology,Phone
+P008,Furniture,Sofa
+P009,Technology,Accessory
+P010,Technology,Accessory
+P011,Furniture,Table
+P012,Technology,Phone
+P013,Technology,Phone
+P014,Office Supplies,Paper
+P015,Technology,Laptop
+P016,Office Supplies,Pen
+P017,Office Supplies,Pen
+P018,Office Supplies,Pen
+P019,Furniture,Chair
+P020,Technology,Phone
+P021,Furniture,Table
+P022,Furniture,Chair
+P023,Furniture,Sofa
+P024,Office Supplies,Pen
+P025,Office Supplies,Pen
+P026,Technology,Laptop
+P027,Office Supplies,Paper
+P028,Furniture,Table
+P029,Furniture,Chair
+P030,Office Supplies,Storage
+P031,Furniture,Sofa
+P032,Furniture,Chair
+P033,Technology,Accessory
+P034,Office Supplies,Pen
+P035,Office Supplies,Pen
+P036,Technology,Accessory
+P037,Technology,Phone
+P038,Technology,Phone
+P039,Technology,Phone
+P040,Technology,Laptop
+P041,Furniture,Chair
+P042,Technology,Accessory
+P043,Furniture,Table
+P044,Furniture,Table
+P045,Office Supplies,Pen
+P046,Office Supplies,Pen
+P047,Furniture,Sofa
+P048,Technology,Accessory
+P049,Technology,Phone
+P050,Technology,Laptop
+P051,Furniture,Table
+P052,Technology,Accessory
+P053,Furniture,Sofa
+P054,Technology,Accessory
+P055,Technology,Phone
+P056,Furniture,Sofa
+P057,Technology,Accessory
+P058,Technology,Phone
+P059,Technology,Laptop
+P060,Technology,Accessory
+P061,Technology,Laptop
+P062,Furniture,Table
+P063,Technology,Phone
+P064,Office Supplies,Paper
+P065,Office Supplies,Pen
+P066,Furniture,Chair
+P067,Office Supplies,Paper
+P068,Furniture,Sofa
+P069,Furniture,Chair
+P070,Office Supplies,Storage
+P071,Technology,Laptop
+P072,Office Supplies,Pen
+P073,Furniture,Chair
+P074,Technology,Phone
+P075,Office Supplies,Storage
+P076,Furniture,Chair
+P077,Furniture,Chair
+P078,Office Supplies,Pen
+P079,Furniture,Chair
+P080,Office Supplies,Paper
+P081,Office Supplies,Storage
+P082,Furniture,Chair
+P083,Office Supplies,Pen
+P084,Office Supplies,Paper
+P085,Furniture,Table
+P086,Furniture,Table
+P087,Technology,Accessory
+P088,Office Supplies,Paper
+P089,Office Supplies,Storage
+P090,Furniture,Sofa
+P091,Office Supplies,Pen
+P092,Furniture,Table
+P093,Technology,Phone
+P094,Office Supplies,Storage
+P095,Technology,Laptop
+P096,Technology,Laptop
+P097,Furniture,Table
+P098,Technology,Accessory
+P099,Office Supplies,Paper
+P100,Technology,Accessory
+P101,Technology,Laptop
+P102,Furniture,Chair
+P103,Office Supplies,Pen
+P104,Technology,Accessory
+P105,Furniture,Sofa
+P106,Office Supplies,Paper
+P107,Furniture,Sofa
+P108,Furniture,Sofa
+P109,Technology,Laptop
+P110,Technology,Laptop
+P111,Office Supplies,Storage
+P112,Office Supplies,Storage
+P113,Office Supplies,Pen
+P114,Technology,Phone
+P115,Office Supplies,Storage
+P116,Furniture,Table
+P117,Furniture,Sofa
+P118,Furniture,Chair
+P119,Furniture,Sofa
+P120,Furniture,Table
+P001,Office Supplies,Pen
+P002,Technology,Laptop
+P003,Technology,Phone
+P004,Office Supplies,Pen
+P005,Furniture,Table
+P006,Furniture,Chair
+P007,Office Supplies,Pen
+P008,Office Supplies,Storage
+P009,Furniture,Chair
+P010,Technology,Laptop
+P011,Office Supplies,Paper
+P012,Furniture,Sofa
+P013,Office Supplies,Paper
+P015,Furniture,Chair
+P016,Furniture,Chair
+P018,Technology,Laptop
+P019,Office Supplies,Pen
+P020,Office Supplies,Pen
+P022,Office Supplies,Storage
+P023,Office Supplies,Storage
+P024,Furniture,Sofa
+P025,Technology,Phone
+P026,Furniture,Sofa
+P027,Furniture,Sofa
+P028,Technology,Phone
+P029,Office Supplies,Storage
+P030,Furniture,Chair
+P031,Furniture,Table
+P032,Technology,Phone
+P033,Technology,Laptop
+P035,Office Supplies,Storage
+P036,Technology,Phone
+P037,Furniture,Table
+P038,Technology,Laptop
+P039,Furniture,Table
+P040,Office Supplies,Paper
+P042,Furniture,Table
+P043,Furniture,Sofa
+P044,Furniture,Sofa
+P045,Office Supplies,Paper
+P046,Technology,Accessory
+P047,Office Supplies,Paper
+P048,Office Supplies,Storage
+P049,Furniture,Table
+P050,Furniture,Sofa
+P051,Furniture,Chair
+P052,Office Supplies,Paper
+P053,Furniture,Chair
+P054,Office Supplies,Pen
+P055,Technology,Laptop
+P056,Technology,Phone
+P057,Furniture,Sofa
+P058,Office Supplies,Paper
+P059,Office Supplies,Storage
+P060,Technology,Laptop
+P061,Furniture,Sofa
+P062,Office Supplies,Pen
+P063,Furniture,Table
+P064,Technology,Laptop
+P065,Furniture,Chair
+P066,Technology,Phone
+P067,Technology,Laptop
+P068,Office Supplies,Paper
+P070,Technology,Accessory
+P071,Furniture,Chair
+P072,Technology,Laptop
+P074,Office Supplies,Pen
+P075,Technology,Phone
+P076,Office Supplies,Storage
+P077,Furniture,Sofa
+P078,Technology,Accessory
+P079,Furniture,Table
+P080,Technology,Phone
+P081,Technology,Laptop
+P082,Technology,Laptop
+P083,Furniture,Chair
+P084,Technology,Laptop
+P085,Technology,Laptop
+P086,Technology,Phone
+P087,Office Supplies,Pen
+P088,Technology,Accessory
+P089,Furniture,Chair
+P090,Technology,Accessory
+P091,Furniture,Sofa
+P093,Office Supplies,Paper
+P094,Furniture,Sofa
+P095,Office Supplies,Storage
+P096,Office Supplies,Paper
+P097,Office Supplies,Paper
+P099,Furniture,Table
+P100,Technology,Phone
+P101,Furniture,Table
+P102,Office Supplies,Storage
+P103,Technology,Accessory
+P104,Office Supplies,Storage
+P105,Office Supplies,Paper
+P107,Office Supplies,Paper
+P108,Technology,Laptop
+P109,Office Supplies,Pen
+P110,Furniture,Sofa
+P111,Furniture,Table
+P112,Technology,Phone
+P113,Technology,Phone
+P114,Furniture,Chair
+P115,Technology,Phone
+P116,Furniture,Sofa
+P117,Technology,Accessory
+P118,Office Supplies,Pen
+P119,Technology,Accessory
+P001,Technology,Laptop
+P003,Office Supplies,Storage
+P004,Furniture,Table
+P005,Furniture,Chair
+P006,Furniture,Sofa
+P007,Furniture,Chair
+P008,Technology,Phone
+P009,Furniture,Table
+P013,Technology,Laptop
+P014,Technology,Accessory
+P015,Technology,Accessory
+P016,Technology,Phone
+P017,Furniture,Sofa
+P018,Furniture,Chair
+P019,Office Supplies,Paper
+P021,Technology,Accessory
+P022,Furniture,Table
+P023,Technology,Accessory
+P027,Furniture,Chair
+P028,Office Supplies,Pen
+P029,Office Supplies,Paper
+P030,Technology,Phone
+P033,Furniture,Sofa
+P034,Technology,Phone
+P036,Office Supplies,Storage
+P038,Furniture,Sofa
+P040,Office Supplies,Pen
+P041,Office Supplies,Pen
+P043,Office Supplies,Paper
+P044,Technology,Accessory
+P045,Technology,Accessory
+P046,Furniture,Sofa
+P047,Office Supplies,Pen
+P049,Office Supplies,Paper
+P050,Office Supplies,Storage
+P051,Office Supplies,Paper
+P054,Technology,Laptop
+P055,Office Supplies,Storage
+P056,Office Supplies,Paper
+P057,Technology,Phone
+P058,Office Supplies,Pen
+P061,Furniture,Table
+P063,Furniture,Sofa
+P064,Furniture,Sofa
+P065,Technology,Laptop
+P067,Technology,Phone
+P068,Furniture,Table
+P070,Furniture,Chair
+P071,Furniture,Table
+P073,Technology,Laptop
+P074,Technology,Laptop
+P075,Office Supplies,Paper
+P076,Office Supplies,Paper
+P077,Technology,Phone
+P078,Office Supplies,Paper
+P079,Office Supplies,Paper
+P085,Furniture,Sofa
+P086,Office Supplies,Storage
+P087,Technology,Laptop
+P089,Office Supplies,Pen
+P090,Office Supplies,Storage
+P091,Technology,Accessory
+P092,Office Supplies,Storage
+P093,Furniture,Sofa
+P095,Office Supplies,Pen
+P096,Technology,Accessory
+P097,Office Supplies,Storage
+P098,Furniture,Sofa
+P099,Technology,Phone
+P101,Technology,Phone
+P102,Office Supplies,Paper
+P103,Office Supplies,Storage
+P104,Technology,Phone
+P105,Furniture,Table
+P106,Furniture,Sofa
+P107,Furniture,Chair
+P108,Office Supplies,Storage
+P110,Office Supplies,Pen
+P111,Office Supplies,Pen
+P112,Office Supplies,Paper
+P113,Furniture,Chair
+P114,Technology,Accessory
+P115,Furniture,Table
+P117,Office Supplies,Paper
+P118,Office Supplies,Storage
+P119,Furniture,Table
+P120,Technology,Accessory
+P002,Office Supplies,Pen
+P003,Furniture,Table
+P004,Furniture,Sofa
+P005,Office Supplies,Storage
+P006,Office Supplies,Storage
+P007,Furniture,Table
+P009,Furniture,Sofa
+P010,Furniture,Chair
+P011,Furniture,Chair
+P012,Office Supplies,Storage
+P013,Technology,Accessory
+P014,Technology,Phone
+P016,Furniture,Table
+P017,Office Supplies,Paper
+P018,Furniture,Sofa
+P019,Office Supplies,Storage
+P025,Office Supplies,Paper
+P026,Office Supplies,Storage
+P027,Technology,Accessory
+P028,Furniture,Sofa
+P030,Office Supplies,Pen
+P031,Technology,Laptop
+P032,Office Supplies,Storage
+P034,Furniture,Chair
+P035,Technology,Accessory
+P036,Office Supplies,Pen
+P037,Technology,Laptop
+P038,Furniture,Table
+P039,Furniture,Chair
+P042,Office Supplies,Paper
+P043,Office Supplies,Storage
+P045,Furniture,Sofa
+P046,Furniture,Table
+P047,Furniture,Table
+P048,Office Supplies,Paper
+P050,Office Supplies,Paper
+P052,Office Supplies,Pen
+P053,Office Supplies,Paper
+P054,Furniture,Sofa
+P055,Furniture,Sofa
+P056,Technology,Accessory
+P060,Furniture,Table
+P061,Technology,Phone
+P062,Office Supplies,Paper
+P063,Office Supplies,Storage
+P064,Technology,Phone
+P065,Technology,Phone
+P066,Office Supplies,Paper
+P067,Furniture,Sofa
+P068,Technology,Phone
+P069,Technology,Laptop
+P071,Office Supplies,Paper
+P072,Office Supplies,Storage
+P073,Furniture,Table
+P075,Furniture,Chair
+P076,Furniture,Table
+P077,Office Supplies,Paper
+P078,Technology,Phone
+P079,Office Supplies,Pen
+P080,Office Supplies,Pen
+P083,Technology,Phone
+P084,Furniture,Table
+P085,Furniture,Chair
+P086,Furniture,Sofa
+P090,Furniture,Chair
+P091,Furniture,Table
+P092,Furniture,Chair
+P094,Technology,Laptop
+P095,Office Supplies,Paper
+P096,Office Supplies,Storage
+P097,Technology,Accessory
+P098,Office Supplies,Paper
+P099,Office Supplies,Storage
+P100,Office Supplies,Pen
+P102,Furniture,Sofa
+P104,Technology,Laptop
+P105,Technology,Accessory
+P106,Technology,Phone
+P107,Technology,Phone
+P109,Furniture,Table
+P110,Furniture,Chair
+P111,Technology,Phone
+P112,Furniture,Sofa
+P113,Furniture,Sofa
+P115,Technology,Accessory
+P116,Technology,Accessory
+P117,Furniture,Chair
+P120,Office Supplies,Paper
+P001,Furniture,Table
+P003,Office Supplies,Pen
+P005,Furniture,Sofa
+P006,Technology,Laptop
+P007,Office Supplies,Paper
+P008,Technology,Laptop
+P009,Office Supplies,Storage
+P011,Office Supplies,Pen
+P012,Technology,Accessory
+P018,Office Supplies,Storage
+P019,Furniture,Table
+P022,Technology,Accessory
+P023,Furniture,Table
+P024,Office Supplies,Paper
+P025,Furniture,Sofa
+P027,Technology,Phone
+P029,Furniture,Table
+P030,Office Supplies,Paper
+P032,Technology,Laptop
+P033,Furniture,Table
+P034,Furniture,Sofa
+P035,Office Supplies,Paper
+P036,Furniture,Sofa
+P037,Office Supplies,Storage
+P038,Furniture,Chair
+P039,Technology,Laptop
+P040,Furniture,Chair
+P042,Furniture,Chair
+P043,Technology,Accessory
+P044,Office Supplies,Storage
+P045,Technology,Laptop
+P046,Office Supplies,Storage
+P047,Technology,Phone
+P048,Technology,Phone
+P049,Technology,Laptop
+P051,Furniture,Sofa
+P052,Furniture,Sofa
+P053,Office Supplies,Pen
+P056,Office Supplies,Pen
+P057,Furniture,Table
+P058,Furniture,Table
+P061,Office Supplies,Storage
+P062,Technology,Phone
+P065,Furniture,Table
+P069,Furniture,Table
+P072,Furniture,Chair
+P073,Office Supplies,Storage
+P074,Technology,Accessory
+P075,Technology,Laptop
+P076,Technology,Laptop
+P077,Office Supplies,Storage
+P078,Technology,Laptop
+P080,Office Supplies,Storage
+P081,Office Supplies,Pen
+P082,Technology,Phone
+P083,Furniture,Table
+P087,Furniture,Table
+P088,Furniture,Table
+P089,Office Supplies,Paper
+P090,Technology,Phone
+P093,Furniture,Chair
+P095,Technology,Accessory
+P098,Technology,Phone
+P100,Office Supplies,Storage
+P101,Technology,Accessory
+P103,Furniture,Chair
+P104,Furniture,Chair
+P105,Furniture,Chair
+P108,Technology,Phone
+P109,Technology,Phone
+P113,Technology,Accessory
+P115,Furniture,Chair
+P117,Technology,Phone
+P118,Technology,Laptop
+P119,Office Supplies,Storage
+P002,Furniture,Chair
+P003,Technology,Laptop
+P004,Technology,Accessory
+P007,Office Supplies,Storage
+P010,Furniture,Sofa
+P011,Technology,Accessory
+P012,Furniture,Chair
+P015,Office Supplies,Storage
+P016,Technology,Laptop
+P017,Technology,Accessory
+P018,Office Supplies,Paper
+P020,Technology,Laptop
+P021,Office Supplies,Pen
+P022,Technology,Laptop
+P024,Technology,Accessory
+P025,Technology,Laptop
+P029,Technology,Laptop
+P030,Furniture,Sofa
+P033,Office Supplies,Paper
+P034,Furniture,Table
+P035,Technology,Phone
+P036,Office Supplies,Paper
+P037,Office Supplies,Pen
+P039,Furniture,Sofa
+P040,Furniture,Table
+P042,Technology,Phone
+P045,Technology,Phone
+P046,Office Supplies,Paper
+P048,Technology,Laptop
+P049,Furniture,Sofa
+P056,Furniture,Table
+P057,Office Supplies,Pen
+P058,Technology,Accessory
+P059,Office Supplies,Paper
+P061,Furniture,Chair
+P063,Office Supplies,Pen
+P064,Technology,Accessory
+P065,Office Supplies,Paper
+P068,Technology,Laptop
+P069,Furniture,Sofa
+P070,Technology,Laptop
+P072,Furniture,Sofa
+P073,Office Supplies,Pen
+P076,Technology,Phone
+P079,Technology,Laptop
+P081,Furniture,Table
+P084,Technology,Phone
+P086,Technology,Accessory
+P092,Technology,Accessory
+P094,Furniture,Chair
+P096,Furniture,Chair
+P097,Technology,Laptop
+P098,Furniture,Chair
+P101,Office Supplies,Pen
+P102,Technology,Laptop
+P103,Office Supplies,Paper
+P104,Furniture,Table
+P106,Technology,Laptop
+P108,Furniture,Table
+P109,Technology,Accessory
+P111,Furniture,Sofa
+P112,Technology,Laptop
+P114,Furniture,Sofa
+P118,Furniture,Sofa
+P119,Technology,Phone
+P120,Office Supplies,Storage
+P001,Office Supplies,Storage
+P002,Technology,Accessory
+P005,Technology,Phone
+P008,Office Supplies,Paper
+P009,Office Supplies,Paper
+P012,Office Supplies,Pen
+P014,Office Supplies,Pen
+P018,Furniture,Table
+P020,Office Supplies,Paper
+P021,Furniture,Sofa
+P024,Technology,Phone
+P026,Furniture,Chair
+P027,Office Supplies,Storage
+P028,Furniture,Chair
+P030,Technology,Laptop
+P033,Technology,Phone
+P036,Technology,Laptop
+P039,Office Supplies,Pen
+P041,Office Supplies,Paper
+P042,Office Supplies,Pen
+P043,Furniture,Chair
+P047,Office Supplies,Storage
+P049,Furniture,Chair
+P054,Technology,Phone
+P056,Technology,Laptop
+P059,Technology,Accessory
+P060,Furniture,Sofa
+P062,Technology,Accessory
+P063,Furniture,Chair
+P064,Furniture,Chair
+P066,Furniture,Sofa
+P067,Furniture,Table
+P068,Technology,Accessory
+P069,Office Supplies,Paper
+P070,Furniture,Sofa
+P073,Office Supplies,Paper
+P074,Office Supplies,Storage
+P081,Office Supplies,Paper
+P082,Furniture,Sofa
+P083,Furniture,Sofa
+P084,Technology,Accessory
+P086,Office Supplies,Paper
+P087,Office Supplies,Paper
+P088,Technology,Phone
+P093,Office Supplies,Storage
+P101,Furniture,Sofa
+P103,Furniture,Sofa
+P105,Technology,Phone
+P107,Furniture,Table
+P108,Office Supplies,Paper
+P110,Office Supplies,Paper
+P111,Office Supplies,Paper
+P112,Technology,Accessory
+P113,Furniture,Table
+P115,Office Supplies,Pen
+P117,Office Supplies,Pen
+P119,Office Supplies,Paper
+P120,Furniture,Sofa
+P003,Office Supplies,Paper
+P005,Technology,Accessory
+P006,Furniture,Table
+P008,Furniture,Chair
+P010,Technology,Phone
+P012,Office Supplies,Paper
+P013,Office Supplies,Pen
+P014,Furniture,Table
+P015,Furniture,Sofa
+P020,Furniture,Sofa
+P022,Technology,Phone
+P023,Technology,Phone
+P026,Office Supplies,Pen
+P027,Office Supplies,Pen
+P029,Technology,Accessory
+P033,Furniture,Chair
+P034,Technology,Accessory
+P036,Furniture,Table
+P039,Office Supplies,Paper
+P040,Office Supplies,Storage
+P041,Technology,Laptop
+P042,Furniture,Sofa
+P049,Technology,Accessory
+P050,Furniture,Table
+P051,Office Supplies,Pen
+P053,Furniture,Table
+P055,Furniture,Table
+P058,Technology,Laptop
+P059,Furniture,Chair
+P060,Technology,Phone
+P062,Technology,Laptop
+P063,Technology,Laptop
+P066,Technology,Accessory
+P067,Technology,Accessory
+P068,Office Supplies,Pen
+P070,Office Supplies,Paper
+P074,Furniture,Table
+P080,Furniture,Sofa
+P081,Technology,Phone
+P082,Furniture,Table
+P092,Office Supplies,Paper
+P093,Furniture,Table
+P095,Furniture,Sofa
+P099,Technology,Accessory
+P100,Furniture,Chair
+P101,Office Supplies,Paper
+P104,Office Supplies,Paper
+P108,Technology,Accessory
+P109,Office Supplies,Storage
+P110,Technology,Accessory
+P112,Furniture,Table
+P114,Office Supplies,Pen
+P120,Furniture,Chair
+P002,Furniture,Table
+P004,Office Supplies,Paper
+P006,Office Supplies,Pen
+P008,Furniture,Table
+P012,Technology,Laptop
+P017,Office Supplies,Storage
+P023,Technology,Laptop
+P025,Furniture,Chair
+P028,Office Supplies,Paper
+P031,Furniture,Chair
+P032,Office Supplies,Paper
+P033,Office Supplies,Pen
+P034,Office Supplies,Paper
+P035,Technology,Laptop
+P038,Office Supplies,Pen
+P041,Office Supplies,Storage
+P043,Technology,Phone
+P044,Technology,Phone
+P049,Office Supplies,Storage
+P050,Furniture,Chair
+P051,Technology,Laptop
+P053,Technology,Phone
+P057,Technology,Laptop
+P060,Furniture,Chair
+P065,Technology,Accessory
+P071,Technology,Accessory
+P074,Office Supplies,Paper
+P076,Furniture,Sofa
+P078,Furniture,Chair
+P081,Technology,Accessory
+P083,Technology,Laptop
+P086,Office Supplies,Pen
+P088,Furniture,Chair
+P091,Technology,Laptop
+P093,Office Supplies,Pen
+P097,Office Supplies,Pen
+P099,Technology,Laptop
+P100,Technology,Laptop
+P103,Technology,Phone
+P106,Furniture,Table
+P107,Office Supplies,Storage
+P109,Office Supplies,Paper
+P111,Technology,Laptop
+P115,Technology,Laptop
+P116,Office Supplies,Storage
+P119,Technology,Laptop
+P001,Furniture,Sofa
+P007,Furniture,Sofa
+P009,Technology,Phone
+P013,Office Supplies,Storage
+P014,Technology,Laptop
+P019,Technology,Phone
+P020,Furniture,Table
+P021,Furniture,Chair
+P022,Office Supplies,Paper
+P023,Office Supplies,Pen
+P024,Furniture,Chair
+P025,Technology,Accessory
+P026,Technology,Accessory
+P032,Technology,Accessory
+P040,Technology,Phone
+P043,Office Supplies,Pen
+P044,Office Supplies,Pen
+P050,Office Supplies,Pen
+P055,Office Supplies,Pen
+P058,Office Supplies,Storage
+P062,Furniture,Sofa
+P069,Technology,Phone
+P075,Technology,Accessory
+P090,Office Supplies,Pen
+P091,Technology,Phone
+P092,Technology,Phone
+P094,Technology,Accessory
+P099,Furniture,Sofa
+P100,Office Supplies,Paper
+P102,Technology,Accessory
+P106,Furniture,Chair
+P110,Furniture,Table
+P114,Technology,Laptop
+P116,Technology,Laptop
+P012,Furniture,Table
+P013,Furniture,Sofa
+P014,Furniture,Sofa
+P016,Office Supplies,Paper
+P018,Technology,Phone
+P019,Technology,Accessory
+P024,Office Supplies,Storage
+P026,Furniture,Table
+P030,Technology,Accessory
+P035,Furniture,Chair
+P038,Office Supplies,Storage
+P040,Technology,Accessory
+P045,Office Supplies,Storage
+P048,Furniture,Sofa
+P050,Technology,Phone
+P054,Furniture,Table
+P062,Office Supplies,Storage
+P064,Furniture,Table
+P065,Office Supplies,Storage
+P067,Office Supplies,Storage
+P070,Office Supplies,Pen
+P072,Technology,Phone
+P076,Technology,Accessory
+P080,Furniture,Table
+P083,Office Supplies,Paper
+P086,Furniture,Chair
+P088,Furniture,Sofa
+P089,Technology,Accessory
+P091,Office Supplies,Paper
+P092,Technology,Laptop
+P098,Office Supplies,Storage
+P106,Office Supplies,Storage
+P108,Office Supplies,Pen
+P110,Technology,Phone
+P113,Office Supplies,Storage
+P117,Technology,Laptop
+P118,Furniture,Table
+P003,Technology,Accessory
+P007,Technology,Laptop
+P010,Office Supplies,Storage
+P013,Furniture,Chair
+P015,Office Supplies,Paper
+P020,Technology,Accessory
+P026,Office Supplies,Paper
+P027,Furniture,Table
+P030,Furniture,Table
+P032,Furniture,Table
+P051,Office Supplies,Storage
+P052,Technology,Laptop
+P053,Technology,Laptop
+P054,Office Supplies,Storage
+P056,Furniture,Chair
+P057,Furniture,Chair
+P058,Furniture,Sofa
+P064,Office Supplies,Pen
+P066,Furniture,Table
+P073,Furniture,Sofa
+P074,Furniture,Chair
+P075,Furniture,Table
+P080,Furniture,Chair
+P084,Office Supplies,Storage
+P085,Office Supplies,Pen
+P089,Furniture,Sofa
+P091,Furniture,Chair
+P096,Furniture,Sofa
+P098,Furniture,Table
+P102,Office Supplies,Pen
+P106,Technology,Accessory
+P108,Furniture,Chair
+P109,Furniture,Chair
+P112,Furniture,Chair
+P118,Office Supplies,Paper
+P119,Furniture,Chair
+P007,Technology,Accessory
+P017,Furniture,Chair
+P021,Technology,Laptop
+P025,Office Supplies,Storage
+P028,Technology,Laptop
+P029,Furniture,Sofa
+P031,Office Supplies,Paper
+P040,Furniture,Sofa
+P041,Technology,Accessory
+P044,Furniture,Chair
+P052,Furniture,Table
+P058,Furniture,Chair

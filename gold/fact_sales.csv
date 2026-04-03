@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,region,order_date,quantity,sales,profit,revenue
+1001,C001,P101,West,2026-01-01,2,500,80,1000.0
+1002,C002,P102,South,2026-01-02,1,1200,220,1200.0
+1003,C001,P103,West,2026-01-03,3,300,45,900.0
+1004,C003,P101,North,2026-01-04,2,700,110,1400.0

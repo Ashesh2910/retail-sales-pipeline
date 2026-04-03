@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,region,order_date,quantity,sales,profit,category,sub_category,revenue,customer_segment
+1001,C001,P101,West,2026-01-01,2,500,80,Furniture,Chair,1000.0,Low Value
+1002,C002,P102,South,2026-01-02,1,1200,220,Technology,Laptop,1200.0,High Value
+1003,C001,P103,West,2026-01-03,3,300,45,Office Supplies,Paper,900.0,Low Value
+1004,C003,P101,North,2026-01-04,2,700,110,Furniture,Chair,1400.0,Medium Value
