@@ -136,6 +136,17 @@ This pipeline enables:
 
 ---
 
+## 📌 Project Outcomes
+
+* Processed **1500+ retail transactions**
+* Created **4 Databricks managed tables**
+* Built **Bronze → Silver → Gold lakehouse flow**
+* Reduced duplicate order noise using transformation layer
+* Enabled **regional KPI dashboards**
+* Delivered **Power BI-ready gold datasets**
+
+---
+
 ## 👨‍💻 Author
 
 **Ashesh**
